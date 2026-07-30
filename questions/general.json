@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["New Delhi", "Mumbai", "Chennai", "Kolkata"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "B. R. Ambedkar"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "options": ["Peacock", "Parrot", "Eagle", "Pigeon"],
+    "answer": "Peacock"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Ganga", "Yangtze"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "James Watt"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Which planet is the largest in the Solar System?",
+    "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "India", "South Korea"],
+    "answer": "Japan"
+  },
+  {
+    "question": "How many days are there in a leap year?",
+    "options": ["366", "365", "364", "367"],
+    "answer": "366"
+  }
+]
