@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who developed Python?",
+    "options": [
+      "Guido van Rossum",
+      "Dennis Ritchie",
+      "James Gosling",
+      "Bjarne Stroustrup"
+    ],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "def",
+      "func",
+      "function",
+      "define"
+    ],
+    "answer": "def"
+  },
+  {
+    "question": "What is the output of 5 + 10?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Which data type stores True or False?",
+    "options": [
+      "Boolean",
+      "Integer",
+      "String",
+      "Float"
+    ],
+    "answer": "Boolean"
+  },
+  {
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": [
+      "**",
+      "^",
+      "*",
+      "//"
+    ],
+    "answer": "**"
+  },
+  {
+    "question": "What is HTML?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Hyper Tool Markup Language",
+      "High Text Machine Language",
+      "None"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which symbol starts a comment in Python?",
+    "options": [
+      "#",
+      "//",
+      "/*",
+      "--"
+    ],
+    "answer": "#"
+  },
+  {
+    "question": "Which function displays output?",
+    "options": [
+      "print()",
+      "show()",
+      "display()",
+      "echo()"
+    ],
+    "answer": "print()"
+  },
+  {
+    "question": "Which collection is immutable?",
+    "options": [
+      "Tuple",
+      "List",
+      "Dictionary",
+      "Set"
+    ],
+    "answer": "Tuple"
+  },
+  {
+    "question": "Which loop repeats until a condition becomes false?",
+    "options": [
+      "while",
+      "for",
+      "repeat",
+      "loop"
+    ],
+    "answer": "while"
+  }
+]
