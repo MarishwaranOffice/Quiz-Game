@@ -109,9 +109,10 @@ MIT License
 
 **Mari Paramasivam S**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/MarishwaranOffice
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+
+LinkedIn: https://www.linkedin.com/in/mariparamasivam
 
 ---
 
