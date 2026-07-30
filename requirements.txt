@@ -1,0 +1,16 @@
+# requirements.txt
+
+customtkinter>=5.2.2
+pillow>=11.0.0
+pygame>=2.6.0
+matplotlib>=3.10.0
+requests>=2.32.0
+sqlite3
+json
+csv
+random
+os
+threading
+datetime
+time
+```
