@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the chemical symbol for Water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Earth", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "question": "How many bones does an adult human have?",
+    "options": ["206", "201", "208", "210"],
+    "answer": "206"
+  },
+  {
+    "question": "Which vitamin is mainly obtained from sunlight?",
+    "options": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin B12"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "The Earth revolves around the?",
+    "options": ["Sun", "Moon", "Mars", "Jupiter"],
+    "answer": "Sun"
+  },
+  {
+    "question": "Which blood cells help fight infection?",
+    "options": ["White Blood Cells", "Red Blood Cells", "Platelets", "Plasma"],
+    "answer": "White Blood Cells"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "80°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which force keeps us on the ground?",
+    "options": ["Gravity", "Magnetism", "Friction", "Pressure"],
+    "answer": "Gravity"
+  }
+]
